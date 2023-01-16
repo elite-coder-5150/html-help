@@ -1,0 +1,15 @@
+body {
+  background: #151619;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  width: 692px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+p {
+  font-size: 0.875rem;
+  border: 0.0625rem solid transparent;
+}
